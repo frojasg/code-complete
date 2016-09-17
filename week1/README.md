@@ -13,4 +13,8 @@ The first week want to get some experience configuring our environment and do so
 * [Installation on Mac OSX](http://docs.python-guide.org/en/latest/starting/install/osx/)
 * [Hello World example](./python/README.md)
 
+### Java
 
+* [Hellow World Example](./java/README.md)
+* [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+* [Java SE API Documentation](https://docs.oracle.com/javase/8/docs/api/index.html)]
